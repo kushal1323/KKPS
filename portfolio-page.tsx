@@ -273,7 +273,7 @@ export default function PortfolioPage() {
                   category: "My Favorite Game",
                   description:
                     "A hauntingly beautiful metroidvania with exceptional art style, challenging gameplay, and deep lore.",
-                  image: "/Hollow_Knight_first_cover_art.webp.png",
+                  image: "/public/Hollow_Knight_first_cover_art.webp.png",
                 },
                 {
                   title: "Sekiro: Shadows Die Twice",
